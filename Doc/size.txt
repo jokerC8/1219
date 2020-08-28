@@ -1,0 +1,30 @@
+Thu Sep 20 09:31:15 2018
+   text	   data	    bss	    dec	    hex	filename
+ 145694	   1456	  22601	 169751	  29717	c:/NXP/bstudio_nxp/workspace/JN-AN-1219-Zigbee-3-0-Controller-and-Switch/ColorSceneController/Build/ColorSceneController_JN5168_DR1159.elf
+Thu Sep 20 09:32:31 2018
+   text	   data	    bss	    dec	    hex	filename
+ 151250	   1624	  23613	 176487	  2b167	c:/NXP/bstudio_nxp/workspace/JN-AN-1219-Zigbee-3-0-Controller-and-Switch/DimmerSwitch/Build/DimmerSwitch_NtagIcode_JN5169_DR1199.elf
+Thu Sep 20 09:34:05 2018
+   text	   data	    bss	    dec	    hex	filename
+ 164134	   1756	  24369	 190259	  2e733	c:/NXP/bstudio_nxp/workspace/JN-AN-1219-Zigbee-3-0-Controller-and-Switch/DimmerSwitch/Build/DimmerSwitch_NtagIcode_OtaEnc_JN5169_DR1199.elf
+Thu Sep 20 09:35:36 2018
+   text	   data	    bss	    dec	    hex	filename
+ 163734	   1756	  24369	 189859	  2e5a3	c:/NXP/bstudio_nxp/workspace/JN-AN-1219-Zigbee-3-0-Controller-and-Switch/DimmerSwitch/Build/DimmerSwitch_NtagIcode_Ota_JN5169_DR1199.elf
+Thu Sep 20 09:37:38 2018
+   text	   data	    bss	    dec	    hex	filename
+ 146182	   1472	  22025	 169679	  296cf	c:/NXP/bstudio_nxp/workspace/JN-AN-1219-Zigbee-3-0-Controller-and-Switch/ColorSceneController/Build/ColorSceneController_JN5169_DR1199.elf
+Tue Sep 25 18:31:13 2018
+   text	   data	    bss	    dec	    hex	filename
+ 145694	   1456	  22601	 169751	  29717	c:/NXP/bstudio_nxp/workspace/JN-AN-1219-Zigbee-3-0-Controller-and-Switch/ColorSceneController/Build/ColorSceneController_JN5168_DR1159.elf
+Tue Sep 25 18:32:43 2018
+   text	   data	    bss	    dec	    hex	filename
+ 151250	   1624	  23613	 176487	  2b167	c:/NXP/bstudio_nxp/workspace/JN-AN-1219-Zigbee-3-0-Controller-and-Switch/DimmerSwitch/Build/DimmerSwitch_NtagIcode_JN5169_DR1199.elf
+Tue Sep 25 18:34:34 2018
+   text	   data	    bss	    dec	    hex	filename
+ 164134	   1756	  24369	 190259	  2e733	c:/NXP/bstudio_nxp/workspace/JN-AN-1219-Zigbee-3-0-Controller-and-Switch/DimmerSwitch/Build/DimmerSwitch_NtagIcode_OtaEnc_JN5169_DR1199.elf
+Tue Sep 25 18:36:23 2018
+   text	   data	    bss	    dec	    hex	filename
+ 163734	   1756	  24369	 189859	  2e5a3	c:/NXP/bstudio_nxp/workspace/JN-AN-1219-Zigbee-3-0-Controller-and-Switch/DimmerSwitch/Build/DimmerSwitch_NtagIcode_Ota_JN5169_DR1199.elf
+Tue Sep 25 18:38:36 2018
+   text	   data	    bss	    dec	    hex	filename
+ 146182	   1472	  22025	 169679	  296cf	c:/NXP/bstudio_nxp/workspace/JN-AN-1219-Zigbee-3-0-Controller-and-Switch/ColorSceneController/Build/ColorSceneController_JN5169_DR1199.elf
